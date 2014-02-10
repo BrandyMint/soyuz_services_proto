@@ -1,0 +1,451 @@
+﻿body {
+    margin: 0px;
+    text-align: center;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+    position: relative;
+    left: -22px;
+    width: 1263px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../1_3__Rezultaty_poiska_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:22px;
+    top:-35px;
+    width:1263px;
+    height:633px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1269px;
+    height:639px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:308px;
+    width:1259px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../1_3__Rezultaty_poiska_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:22px;
+    top:598px;
+    width:1263px;
+    height:102px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1263px;
+    height:102px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:43px;
+    width:1259px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:65px;
+    top:261px;
+    width:230px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_menu {
+    background-image: url('../1_3__Rezultaty_poiska_files/u5_menu.png');
+}
+
+.u5_menu {
+    position:absolute;
+    left:63px;
+    top:228px;
+    width:201px;
+    height:29px;
+}
+
+#u5_menu {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:198px;
+    height:26px;
+}
+
+#u6 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:197px;
+    height:25px
+}
+
+.u7_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u7_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:67px;
+    height:20px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:73px;
+    height:26px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:63px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u9_container {
+    position:absolute;
+    left:67px;
+    top:0px;
+    width:125px;
+    height:20px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:131px;
+    height:26px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:121px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../1_3__Rezultaty_poiska_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:1263px;
+    height:196px;
+}
+
+#u11_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1263px;
+    height:196px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:90px;
+    width:1259px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:65px;
+    top:305px;
+    width:740px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:65px;
+    top:334px;
+    width:740px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u15 {
+    position:absolute;
+    left:65px;
+    top:375px;
+    width:890px;
+    height:125px
+}
+
+.u16_normal {
+    background-image: url('../1_3__Rezultaty_poiska_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:885px;
+    height:40px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:891px;
+    height:46px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:881px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../1_3__Rezultaty_poiska_files/u16_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:885px;
+    height:40px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:891px;
+    height:46px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:881px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../1_3__Rezultaty_poiska_files/u16_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:885px;
+    height:40px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:891px;
+    height:46px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:881px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:67px;
+    top:505px;
+    width:393px;
+    height:35px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#949494;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u23 {
+    position:absolute;
+    left:470px;
+    top:505px;
+    width:100px;
+    height:35px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u24_normal {
+    background-image: url('../1_3__Rezultaty_poiska_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:1159px;
+    top:250px;
+    width:91px;
+    height:25px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:31px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:87px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
